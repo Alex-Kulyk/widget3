@@ -28,5 +28,3 @@ const BoxM = ({
 };
 
 export default BoxM;
-
-// id: abbr:color:color-blind-label:label:
