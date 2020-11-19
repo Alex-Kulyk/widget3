@@ -1,0 +1,28 @@
+.blue {
+  border-radius: 0.5rem;
+  padding-right: 2.5rem;
+}
+.blue-box {
+  border: 0.125rem solid black;
+  display: flex;
+  padding: 0.1875rem;
+  width: 5rem;
+  height: 5rem;
+  border-radius: 0.625rem;
+  margin-right: 2.8125rem;
+}
+.box-ns {
+  display: flex;
+  background: #046dff;
+  flex: 1;
+  border-radius: 0.625rem;
+}
+.p-color {
+  color: #046dff;
+}
+.ul-style {
+  font-weight: bold;
+  color: #23282b;
+  flex: 1;
+  margin-top: 1rem;
+}

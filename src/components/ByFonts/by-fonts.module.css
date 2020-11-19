@@ -1,0 +1,11 @@
+.tabcontent {
+  padding: 0 0.75rem;
+  border: 0.125rem solid #c5cedd;
+  border-radius: 0.625rem;
+  margin-top: 1rem;
+  min-height: 35vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
